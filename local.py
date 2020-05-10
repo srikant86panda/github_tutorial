@@ -1,5 +1,5 @@
 def test():
-	print('local changes')
+	print('web changes')
 
 if __name__ == '__main__':
 	test()
